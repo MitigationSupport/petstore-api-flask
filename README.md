@@ -1,6 +1,5 @@
-# Petstore AP11eee
-www
-## To Build
+
+# Petstore AP11eee 
 ```
 docker build -t petstore .
 docker run --name=petstore -d -p 5000:5000 petstore:latest
